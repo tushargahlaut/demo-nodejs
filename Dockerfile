@@ -1,4 +1,4 @@
-FROM 16.17.1-alpine
+FROM 16-alpine
 
 WORKDIR /usr/src/app
 
